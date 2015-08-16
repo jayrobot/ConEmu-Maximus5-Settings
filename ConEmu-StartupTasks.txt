@@ -1,0 +1,4 @@
+>*Powershell "-new_console:d:C:\Users\jr286576\Documents\GitHub"
+"C:\Program Files (x86)\git\bin\sh.exe" --login -i "-cur_console:d:C:\Users\jr286576\Documents\GitHub"
+*%comspec% /k ""C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\Tools\VsDevCmd.bat""  "-new_console:d:C:\Users\jr286576\Documents\Visual Studio 2013\Projects"
+"C:\Program Files\JPSoft\TCCLE13x64\tcc.exe" "-cur_console:h400d:C:\Users\jr286576\Documents\GitHub"
